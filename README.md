@@ -1,7 +1,12 @@
-![image](https://user-images.githubusercontent.com/68661711/135301797-400e163d-71a3-45f8-b35f-e849e8c74f0c.png)
+
 <p align="center"><b>
   A Software Framework for Neuromorphic Computing
 </b></p>
+
+
+[An Interactive Streamlit App version of a notebook tutorial ](https://russelljjarvis-lava-app-h64zo3.streamlitapp.com/)
+
+[The Jupyter Notebook that the app is based on](https://github.com/russelljjarvis/lava/blob/main/tutorials/end_to_end/tutorial02_excitatory_inhibitory_network.ipynb)
 
 # Overview
 
